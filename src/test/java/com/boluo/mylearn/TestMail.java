@@ -18,6 +18,6 @@ public class TestMail {
         String myEmailPassword = "*****";
         String receiveMailAccount = "****@qq.com";
         JavaMail javaMail = new JavaMail();
-        javaMail.send(myEmailAccount, myEmailPassword, receiveMailAccount);
+//        javaMail.send(myEmailAccount, myEmailPassword, receiveMailAccount);
     }
 }
